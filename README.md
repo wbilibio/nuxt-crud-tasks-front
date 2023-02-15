@@ -5,6 +5,9 @@
 [![Repository](https://img.shields.io/badge/Laravel-Backend-DD0031?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/wbilibio/laravel-crud-tasks-api)
 
 
+## Requirements
+Node: 16.10.0
+
 ## Build Setup
 
 ```bash
